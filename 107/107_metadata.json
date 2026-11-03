@@ -1,0 +1,43 @@
+{
+  "originalFile": "107.mp3",
+  "totalSegments": 6,
+  "createdAt": "2026-11-02T11:46:53.189Z",
+  "segments": [
+    {
+      "title": "107_1.webm",
+      "start": 5.004035,
+      "end": 10.860524,
+      "filename": "107_1.webm"
+    },
+    {
+      "title": "107_2.webm",
+      "start": 10.860524,
+      "end": 15.553386,
+      "filename": "107_2.webm"
+    },
+    {
+      "title": "107_3.webm",
+      "start": 15.553386,
+      "end": 21.281409,
+      "filename": "107_3.webm"
+    },
+    {
+      "title": "107_4.webm",
+      "start": 21.281409,
+      "end": 25.263879,
+      "filename": "107_4.webm"
+    },
+    {
+      "title": "107_5.webm",
+      "start": 25.263879,
+      "end": 31.640638,
+      "filename": "107_5.webm"
+    },
+    {
+      "title": "107_6.webm",
+      "start": 31.640638,
+      "end": 40.263401,
+      "filename": "107_6.webm"
+    }
+  ]
+}
